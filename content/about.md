@@ -12,4 +12,4 @@ I specialize in entertainment for all ages. I was born and raised in the small c
 
 I've received several Promax Awards, no Emmys or Peabodys yet, but earned a degree from the [school](https://grady.uga.edu) that hands those out.
 
-I'd love to work on some great projects with you. Let's [chat](/contact). Until then, I owe Janice some new material.
+I'd love to work on some great projects with you. Let's [chat](/404.html). Until then, I owe Janice some new material.
