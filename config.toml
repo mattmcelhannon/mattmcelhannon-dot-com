@@ -22,7 +22,7 @@ paginate = 8
 
 [params]
   author = "Matt McElhannon"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  description = "Writer. Producer. Fun Guy."
   avatar = "img/avatar.jpg"
   menu_item_separator = " - "
   [[params.social]]
@@ -46,11 +46,11 @@ paginate = 8
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/mattmcelhannon/"    
   [params.style]
-   darkestColor = "#d35050"
-   darkColor = "#212121"
-   lightColor = "#d6d6d6"
-   lightestColor = "#d3d3d3"
-   primaryColor = "#ffffff"
+   darkestColor = "#dc322f"
+   darkColor = "#000000"
+   lightColor = "#93a1a1"
+   lightestColor = "#eee8d5"
+   primaryColor = "#fdf6e3"
 
   # Default theme
   #[params.style]
