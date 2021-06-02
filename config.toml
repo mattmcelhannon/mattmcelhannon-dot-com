@@ -26,13 +26,25 @@ paginate = 8
   avatar = "img/avatar.jpg"
   menu_item_separator = " - "
   [[params.social]]
+    icon = "youtube"
+    name = "YouTube"
+    url = "https://www.youtube.com/c/MattMcElhannon"
+  [[params.social]]
+    icon = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/mattmcelhannon/"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/mattmcelhannon"          
+  [[params.social]]
     icon = "github"
     name = "Github"
     url = "https://github.com/mattmcelhannon"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/mattmcelhannon"
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/mattmcelhannon/"    
   [params.style]
    darkestColor = "#d35050"
    darkColor = "#212121"
