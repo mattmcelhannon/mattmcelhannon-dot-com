@@ -1,4 +1,6 @@
-baseURL = "/Users/MattMcElhannon/Documents/Sites/mattmcelhannon-dot-com/public/"
+baseURL = "//example.org"
+relativeURLs = true
+uglyURLs = true
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
