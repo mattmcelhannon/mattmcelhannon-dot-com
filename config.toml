@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "/Users/MattMcElhannon/Documents/Sites/mattmcelhannon-dot-com/public/"
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
