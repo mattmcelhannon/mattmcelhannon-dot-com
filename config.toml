@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://localhost:1313"
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
