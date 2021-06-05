@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "file:///Users/MattMcElhannon/Documents/Sites/mattmcelhannon-dot-com/public/"
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
