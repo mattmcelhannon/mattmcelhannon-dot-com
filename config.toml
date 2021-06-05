@@ -1,6 +1,4 @@
-baseURL = "//example.org"
-relativeURLs = true
-uglyURLs = true
+baseURL = "https://example.com"
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
