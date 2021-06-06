@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2021-06-01T20:18:29-07:00
-draft: false
 ---
 
 Hello! I'm Matt. Nice to meet you. I'm a Writer/Producer living in Burbank, CA with my black lab mix, [Maggie](https://www.instagram.com/maggiemcelhannon/).
