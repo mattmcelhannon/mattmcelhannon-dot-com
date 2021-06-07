@@ -9,6 +9,6 @@ I've [worked](https://mcelhannon.tv/) in promotion, branding, and marketing for 
 
 I specialize in entertainment for all ages. I was born and raised in the small college town of Athens, GA, and I draw a lot from my family’s down-home humor, giving my personal brand of marketing a unique, fun, and edgy perspective. I do my best to be clever and find the wit in every sound bite or frame of visual.
 
-I've received several Promax Awards, a few Tellys, no Emmys or Peabodys yet, but I earned a degree from the [school](https://grady.uga.edu) that hands those out.
+I've received several Promax Awards, a few Tellys, no Emmys or Peabodys yet, but I earned a degree from the [school](https://grady.uga.edu/) that hands those out.
 
-I'd love to work on some great projects with you. Let's [chat](/404.html). Until then, I owe Janice some new material.
+I'd love to work on some great projects with you. Get all up in my [DMs](/contact/) and let's start chatting. Until then, I owe Janice some new material.
