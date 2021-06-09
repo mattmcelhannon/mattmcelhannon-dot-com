@@ -11,4 +11,4 @@ I specialize in entertainment for all ages. I was born and raised in the small c
 
 I've received several Promax Awards, a few Tellys, no Emmys or Peabodys yet, but I earned a degree from the [school](https://grady.uga.edu/) that hands those out.
 
-I'd love to work on some great projects with you. Get all up in my [DMs](/contact/) and let's start chatting. Until then, I owe Janice some new material.
+I'd love to work on some great projects with you. [Reach out](/contact/) and let's start chatting. Until then, I owe Janice some new material.
