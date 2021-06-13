@@ -44,7 +44,11 @@ paginate = 8
   [[params.social]]
     icon = "linkedin"
     name = "LinkedIn"
-    url = "https://www.linkedin.com/in/mattmcelhannon/"    
+    url = "https://www.linkedin.com/in/mattmcelhannon/"
+  [[params.social]]
+    icon = "coffee"
+    name = "Buy Me A Coffee"
+    url = "https://www.buymeacoffee.com/"    
   [params.style]
    darkestColor = "#dc322f"
    darkColor = "#000000"
