@@ -38,9 +38,9 @@ paginate = 8
     name = "Twitter"
     url = "https://twitter.com/mattmcelhannon"          
   [[params.social]]
-    icon = "facebook"
-    name = "Facebook"
-    url = "https://www.facebook.com/mattmcelhannon"
+    icon = "github"
+    name = "Github"
+    url = "https://www.github.com/mattmcelhannon"
   [[params.social]]
     icon = "linkedin"
     name = "LinkedIn"
