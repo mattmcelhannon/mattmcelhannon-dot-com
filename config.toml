@@ -48,7 +48,7 @@ paginate = 8
   [[params.social]]
     icon = "coffee"
     name = "Buy Me A Coffee"
-    url = "https://www.buymeacoffee.com/"    
+    url = "https://www.buymeacoffee.com/mattmcelhannon"    
   [params.style]
    darkestColor = "#dc322f"
    darkColor = "#000000"
