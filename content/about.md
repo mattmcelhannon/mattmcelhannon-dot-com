@@ -12,3 +12,10 @@ I specialize in entertainment for all ages. I was born and raised in the small c
 I've received several Promax Awards, a few Tellys, no Emmys or Peabodys yet, but I earned a degree from the [school](https://grady.uga.edu/) that hands those out.
 
 I'd love to work on some great projects with you. [Reach out](mailto:matt@mattmcelhannon.com) and let's start a chat. Until then, I owe Janice some new material.
+
+## Stuff I Use
+
+### MacBook Pro mid-2015
+- This is the very last model before Apple switched to all USB-C ports and it will break my heart when it finally kicks the bucket. So I'm trying to make it last as long as possible.
+
+### Visual Studio Code
