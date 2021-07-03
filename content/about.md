@@ -3,7 +3,9 @@ title: "About"
 date: 2021-06-01T20:18:29-07:00
 ---
 
-Hello! I'm Matt. Nice to meet you. I'm a Writer/Producer living in Burbank, CA with my black lab mix, [Maggie](https://www.instagram.com/maggiemcelhannon/).
+# Hello! I'm Matt.
+
+Nice to meet you. I'm a Writer/Producer living in Burbank, CA with my black lab mix, [Maggie](https://www.instagram.com/maggiemcelhannon/).
                     
 I've [worked](https://mcelhannon.tv/) in promotion, branding, and marketing for over twenty years with extensive experience in conceiving, writing, and producing short and long form content for on-air, print, and digital. I've written for talking animals and talking humans, and I especially love writing copy that makes people laugh - Janice at the post office just howls!
 
