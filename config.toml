@@ -1,4 +1,4 @@
-baseURL = "https://www.mattmcelhannon.com"
+baseURL = "https://mattmcelhannon.com"
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
