@@ -22,7 +22,7 @@ paginate = 8
 
 [params]
   author = "Matt McElhannon"
-  description = "© 2021 Matt McElhannon"
+  description = "© 2022 Matt McElhannon"
   avatar = "img/avatar.jpg"
   menu_item_separator = " - "
   [[params.social]]
