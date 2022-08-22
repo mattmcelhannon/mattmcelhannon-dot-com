@@ -1,4 +1,4 @@
-baseURL = "https://master.d3jcmyfkob12n3.amplifyapp.com/"
+baseURL = ""
 title = "Matt McElhannon"
 theme = "m10c"
 paginate = 8
@@ -8,17 +8,22 @@ paginate = 8
     identifier = "home"
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 10
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 20
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 30
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3  
+    weight = 40 
 
 [params]
   author = "Matt McElhannon"

@@ -2,7 +2,8 @@
 title: "Hello World! I have no idea what I'm doing!"
 date: 2021-07-05T07:48:00-07:00
 draft: false
-tags: ["blog"]
+categories: ["blog"]
+tags: ["creativity"]
 description: Welcome to my very first post!
 ---
 
