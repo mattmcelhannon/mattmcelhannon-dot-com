@@ -3,7 +3,7 @@ title = "Hello World! I have no idea what I'm doing!"
 date = 2021-07-05T07:48:00-07:00
 draft = false
 categories = ['Blog']
-tags = ['Coding', 'Creativity', 'Learning']
+tags = ['Blogs','Coding','Creativity','Learning']
 description = "Welcome to my very first post!"
 +++
 

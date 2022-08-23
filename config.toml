@@ -10,20 +10,15 @@ paginate = 8
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 20
-  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 30
+    weight = 20
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 40 
+    weight = 30 
 
 [params]
   author = "Matt McElhannon"
